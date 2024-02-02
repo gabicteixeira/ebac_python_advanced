@@ -1,2 +1,3 @@
 # ebac_python_advanced
-Curso Python avançado EBAC
+
+#Exercício do curso Python avançado EBAC.
